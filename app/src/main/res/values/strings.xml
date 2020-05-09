@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RandomVerificationCode</string>
+    <string name="reset">重置</string>
+</resources>
